@@ -31,6 +31,7 @@
     <module>bom</module>
     <module>common</module>
     <module>bigquery</module>
+    <module>bigquery-storage</module>
     <module>pubsub</module>
     <module>spanner</module>
     <module>storage</module>
